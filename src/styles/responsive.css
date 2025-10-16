@@ -1,0 +1,35 @@
+/* ==================================== */
+/* RESPONSIVIDADE (@MEDIA QUERIES) */
+/* ==================================== */
+
+@media (max-width: 600px) {
+
+    .clock-container {
+        padding: 30px 40px;
+        margin: 0 15px;
+    }
+
+    .time-display {
+        font-size: 3.5em;
+        letter-spacing: 3px;
+        white-space: nowrap;
+    }
+
+    .date-display {
+        font-size: 1.2em;
+        margin-bottom: 15px;
+    }
+
+    .theme-toggle {
+        padding: 8px 16px;
+        font-size: 0.9em;
+    }
+
+    footer {
+        bottom: 5px;
+    }
+
+    .signature {
+        font-size: 0.7em;
+    }
+}
