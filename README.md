@@ -32,28 +32,8 @@ O projeto foi construído utilizando as três pilares do desenvolvimento web fro
 
 Veja o Relógio Digital em funcionamento!
 
-➡️ **Acesse a aplicação no Vercel:** [**[COLOQUE O LINK DO SEU PROJETO AQUI]**]([COLOQUE O LINK DO SEU PROJETO AQUI])
-
----
-
-## 💡 Como Executar Localmente
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/SEU-USUARIO/Relogio-Digital.git](https://github.com/SEU-USUARIO/Relogio-Digital.git)
-    ```
-2.  **Entre na pasta do projeto:**
-    ```bash
-    cd Relogio-Digital
-    ```
-3.  **Abra no navegador:**
-    Basta abrir o arquivo `index.html` em seu navegador de preferência.
-
----
+➡️ **Acesse a aplicação:** [clicando aqui](https://relogio-digital-green-two.vercel.app/)
 
 <p align="center">
   Feito por Renata Stephanie
 </p>
-
-## Visualização do Projeto
-Para visualizar o projeto [clique aqui](https://relogio-digital-green-two.vercel.app/)
